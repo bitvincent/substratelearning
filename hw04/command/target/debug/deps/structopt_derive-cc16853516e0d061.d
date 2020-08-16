@@ -1,0 +1,10 @@
+/Users/vincent/Desktop/波卡课程/substratelearning/hw04/command/target/debug/deps/libstructopt_derive-cc16853516e0d061.dylib: /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/lib.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/attrs.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/doc_comments.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/parse.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/spanned.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/ty.rs
+
+/Users/vincent/Desktop/波卡课程/substratelearning/hw04/command/target/debug/deps/structopt_derive-cc16853516e0d061.d: /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/lib.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/attrs.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/doc_comments.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/parse.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/spanned.rs /Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/ty.rs
+
+/Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/lib.rs:
+/Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/attrs.rs:
+/Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/doc_comments.rs:
+/Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/parse.rs:
+/Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/spanned.rs:
+/Users/vincent/.cargo/registry/src/github.com-1ecc6299db9ec823/structopt-derive-0.4.9/src/ty.rs:
